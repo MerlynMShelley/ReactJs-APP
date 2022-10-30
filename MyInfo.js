@@ -4,7 +4,7 @@ function MyInfo(){
 	return(
 			<div>
 			<h1>Merly M Shelley</h1>
-			<p>I am a Tech Enthusiast!!</p>
+			<p>I am a Software Engineer!!</p>
 			<ul>
 				<li>New York</li>
 				<li>Washington</li>
